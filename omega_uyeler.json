@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "sifre_hash": "7c78c98f",
+    "sifre_maskeli": "73767f7e",
+    "admin_mi": true,
+    "kayit_tarihi": "17.10.2026 00:14"
+  },
+  "arda": {
+    "sifre_hash": "7c94327d",
+    "sifre_maskeli": "26213f2e",
+    "admin_mi": true,
+    "kayit_tarihi": "17.10.2026 23:30"
+  },
+  "ardaa": {
+    "sifre_hash": "7c94327d",
+    "sifre_maskeli": "26213f2e",
+    "admin_mi": true,
+    "kayit_tarihi": "17.10.2026 22:40"
+  },
+  "batu": {
+    "sifre_hash": "66435e27",
+    "sifre_maskeli": "626d7032312c2d",
+    "admin_mi": true,
+    "kayit_tarihi": "19.10.2026 20:11"
+  }
+}
